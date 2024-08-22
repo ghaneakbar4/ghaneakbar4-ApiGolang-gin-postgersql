@@ -4,7 +4,7 @@
 ## setup and run project step by step
 
 ## 1-clone repository from github
-## 2-get all packages by
+## 2-get all packages
 
 Use the package manager 
 
